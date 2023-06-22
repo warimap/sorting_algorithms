@@ -34,3 +34,6 @@ All of the following programs are written in C:
 | `105-O` | File that stores the best, average and worst case of the time complexity of the **Radix sort** algorithm |
 | `106-bitonic_sort.c` | Function that sorts an array of integers in ascending order using the **Bitonic sort** algorithm |
 | `106-O` | File that stores the best, average and worst case of the time complexity of the **Bitonic sort** algorithm |
+| `107-quick_sort_hoare.c` | Function that sorts an array of integers in ascending order using the **Quick sort** algorithm  |
+| `107-O` | File that stores the best, average and worst case of the time complexity of the **Quick sort** algorithm |
+| `1000-sort_deck.c` | Function that sorts a deck of cards using the **qsort** algorithm |

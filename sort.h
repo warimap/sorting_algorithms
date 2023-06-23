@@ -5,6 +5,7 @@
  *header file containing all the function prototpyes
  *of functions used in this prject
  */
+#include <stdlib.h>
 #include <stdbool.h>
 #include <stdio.h>
 #include <stddef.h>
